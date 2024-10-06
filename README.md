@@ -1,5 +1,9 @@
 # Sport Center Website
 
+## Go to Website
+
+https://sunny-axolotl-1fc471.netlify.app/
+
 ## Features
 
 - Navbar: Fixed and scroll event sensitive.
@@ -11,8 +15,6 @@
 - Customer Reviews: Real user reviews.
 - Contact Form: Easy to contact and map integration.
 - Responsive Design: Compatible appearance on every device.
-
-Translated with www.DeepL.com/Translator (free version)
 
 ## Screenshots
 
@@ -54,15 +56,6 @@ Translated with www.DeepL.com/Translator (free version)
 
 This project includes various interactive features for a web application, implemented using HTML, CSS, and JavaScript. Key functionalities include a responsive navigation bar with scroll effects, a hamburger menu for mobile navigation, section switching based on button clicks, and a Body Mass Index (BMI) calculator.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Interactive Features
 
 ### 1. Navbar Scroll Effect
@@ -86,12 +79,3 @@ This project includes various interactive features for a web application, implem
 - HTML
 - CSS
 - JavaScript
-
-## Installation
-
-To run this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
