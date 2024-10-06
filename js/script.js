@@ -1,3 +1,4 @@
+// Değerlendirme Formu 9
 // Scroll fonks.
 window.addEventListener('scroll', () => {
     const nav = document.getElementById('main-nav');
@@ -27,6 +28,7 @@ hamburgerMenu.addEventListener('click', () => {
     }
 });
 
+// Değerlendirme Formu 11
 document.addEventListener('DOMContentLoaded', function () {
     const buttons = document.querySelectorAll('.classes-btns .btn-group .classes-btn');
     const sections = document.querySelectorAll('.classes > .container > .classes-section > div');
@@ -56,6 +58,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
+// Değerlendirme Formu 8
 // DOM elemanlarını seç
 const heightInput = document.querySelector('.height > input');
 const weightInput = document.querySelector('.weight > input');
